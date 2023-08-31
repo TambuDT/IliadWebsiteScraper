@@ -9,7 +9,7 @@ This script perform web scraping using Puppeteer and expose the scraped data thr
 1. Clone this repository to your local machine:
 
 ```bash
-https://github.com/TambuDT/scraperiliad.git
+git clone https://github.com/TambuDT/scraperiliad.git
 
 ```
 
